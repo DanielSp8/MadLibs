@@ -1,0 +1,48 @@
+*adj
+Enter an adjective
+*nou
+Enter a noun
+*no2
+Enter a noun
+*pln
+Enter a plural noun
+*gam
+Enter a type of game
+*vin
+Enter a verb ending in "ing"
+*vi2
+Enter a verb ending in "ing"
+*plt
+Enter a type of plant
+*bdp
+Enter a part of the body
+*pla
+Enter a specific place
+*num
+Enter a number
+*pir
+Enter the name of a person in the room
+*est
+Enter a superlative (ending in "est")
+*vrb
+Enter a verb
+*vr2
+Enter a verb
+*evt
+Enter an event
+*day
+Enter a day of the week
+*tim
+Enter a time span
+*adv
+Enter an adverb
+*vpt
+Enter a verb (past tense)
+*aet
+Enter (-est adjective)
+*pno
+Enter a proper noun (a name)
+*ani
+Enter a specific type of animal
+*ans
+Enter a specific type of animal (plural)

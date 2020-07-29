@@ -1,5 +1,5 @@
 # MadLibs
-This is a MadLibs game written in C#
+This is a MadLibs game written in C#<br>
 It opens and reads from several texts files.
 One of these files (speechsymbols.txt) stores the different symbols used for the MadLibs program.
 It stores everything from a noun to adjective and other types of words in between.  

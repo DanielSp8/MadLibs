@@ -2,7 +2,7 @@
 This is a MadLibs game written in C#<br>
 It opens and reads from several text files.<br>
 One of these files (speechsymbols.txt) stores the different symbols used for the MadLibs program.<br>
-It stores everything from a noun to adjective and other types of words in between.<br>
+It stores different types of words and the type of word, such as an adjective, noun, etc.<br>
 This program stores these different symbols in an array.  This array is then applied to the other text files,<br>
 the actual MadLibs themselves.<br>  
 
